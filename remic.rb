@@ -2,9 +2,9 @@
 class Remic < Formula
   desc ""
   homepage "https://github.com/knqyf263/remic"
-  url "https://github.com/knqyf263/remic/releases/download/v0.0.1/remic_0.0.1_macOS-64bit.tar.gz"
-  version "0.0.1"
-  sha256 "5176cc24683e15e28c90d5d03fee852932db04f0365597c2c6585e3162cf1fce"
+  url "https://github.com/knqyf263/remic/releases/download/v0.0.2/remic_0.0.2_macOS-64bit.tar.gz"
+  version "0.0.2"
+  sha256 "76f3853e91a77f80e707d2e678cf542c6ac0cbca8325ab33a1cf3f6546e722aa"
   
   depends_on "rpm"
 
